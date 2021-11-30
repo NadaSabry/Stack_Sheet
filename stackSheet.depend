@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1613589421 source:e:\codeblocks\stacksheet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"St.h"
+
+1613548944 e:\codeblocks\stacksheet\st.h
+
+1613589420 source:e:\codeblocks\stacksheet\st.c
+	"St.h"
+
+1613589323 source:e:\codeblocks\stacksheet\st_userlevel.c
+	"St.h"
+
